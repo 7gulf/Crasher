@@ -1,7 +1,9 @@
+print('hi')
+
+spawn(function()
+        while wait() do
     spawn(function()
-     while wait() do
-    spawn(function()
-                local malformed = string.rep('ᴭ᷁᷁᷁ᴭ᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ก็็็▌▓', 90900)
+            local malformed = string.rep('ᴭ᷁᷁᷁ᴭ᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ᴭ᷁᷁᷁ก็็็▌▓', 90900)
         local packets = 80
         c = 0
         for i = 1, packets/4 do
